@@ -180,3 +180,10 @@ ul {
     width: 90%;
   }
 }
+.color-circle {
+  width: 50px;
+  height: 50px;
+  margin-top: 8px;
+  border: 2px solid #d8d8d8;
+  border-radius: 50%;
+}
